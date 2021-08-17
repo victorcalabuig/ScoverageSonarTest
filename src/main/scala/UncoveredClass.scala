@@ -76,5 +76,6 @@ class UncoveredClass {
     println("hello")
     println("hello")
     println("hello")
+    println("new code")
   }
 }
